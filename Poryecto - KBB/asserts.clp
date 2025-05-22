@@ -1,8 +1,0 @@
-(assert (orden (cliente-id 1) (categoria celular) (producto iphone16) (qty 10) (forma-pago banamex)))
-(run)
-(assert (orden (cliente-id 3) (categoria computadora) (producto macbookair) (qty 3) (forma-pago bbva)))
-(run)
-(assert (orden (cliente-id 2) (categoria celular) (producto iphone16) (qty 3) (forma-pago contado)))
-(run)
-(assert (orden (cliente-id 5) (categoria accesorio) (producto mouseNX7000) (qty 3) (forma-pago hsbc)))
-(run)
